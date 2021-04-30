@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Oceanize Android Test</string>
+
+    <string name="something_went_wrong_please_try_again">Something went wrong Please try again…</string>
+    <string name="no_command_executed_yet">No Command executed yet</string>
+    <string name="executing">Executing…</string>
+</resources>
