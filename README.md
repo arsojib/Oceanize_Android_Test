@@ -11,7 +11,7 @@ You can see the output of those command via a black screen.
 
 ![App main screen, screenshot](screenshot_1.png)
 
-This codelab has four branches, representing different code states:
+Representing different code states:
 
 * [Dependency Injection](https://github.com/arsojib/Oceanize_Android_Test/tree/master/app/src/main/java/com/mysoft/oceanizeandroidtest/di)
 * [View and Business logics](https://github.com/arsojib/Oceanize_Android_Test/tree/master/app/src/main/java/com/mysoft/oceanizeandroidtest/view)
